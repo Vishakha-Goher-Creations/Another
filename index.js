@@ -7,3 +7,5 @@ var ab = true
 console.log(ab)
 
 // adding the comment to check git branching commannds
+
+//added comment in remote repo
